@@ -1,0 +1,5 @@
+D:\An 3\SEM2\PI\OpenCVApplication-VS2022_OCV490_basic\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVApplication.exe
+D:\An 3\SEM2\PI\Lab1\x64\Debug\OpenCVApplication.exe
+D:\An 3\SEM2\PI\Lab2\x64\Debug\OpenCVApplication.exe
+D:\An 3\SEM2\PI\PROIECT\x64\Debug\OpenCVApplication.exe
+C:\Users\Andrei\Downloads\PROIECT\PROIECT\x64\Debug\OpenCVApplication.exe
